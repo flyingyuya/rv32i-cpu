@@ -1,5 +1,9 @@
 build/
+build-*/
 *.vcd
 *.vvp
 *.log
+*.o
+*.bin
+*.lst
 __pycache__/
